@@ -1,0 +1,128 @@
+{
+    "items": [
+        {
+            "text": "Toyota",
+            "description": "Toyota",
+            "src": "resources/images/toyota.jpg",
+            "leaf": true
+        },
+        {
+            "text": "BMW",
+            "description": "Giraffe from Africa",
+            "src": "resources/images/bmw.jpg",
+            
+            "items": [
+                {
+                    "text": "3 Series",
+                    "description": "3 Series",
+                    "src": "resources/images/3series.jpg",
+                    "leaf": true
+                },
+                {
+                    "text": "5 Series",     
+                    "description": "5 Series",
+                    "src": "resources/images/5series.jpg",
+                    
+                    "items": [
+                        {
+                            "text": "Giraffe 4",
+                            "description": "Giraffe from Africa",
+                            "src": "resources/images/giraffe-4.jpg",
+                            "leaf": true
+                        },
+                        {
+                            "text": "Giraffe 5",
+                            "description": "Giraffe from Africa",
+                            "src": "resources/images/giraffe-5.jpg",
+                            "leaf": true
+                        },
+                        {
+                            "text": "Giraffe 6",
+                            "description": "Giraffe from Africa",
+                            "src": "resources/images/giraffe-6.jpg",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Giraffe 7",
+                    "description": "Giraffe from Africa",
+                    "src": "resources/images/giraffe-7.jpg",
+                    "leaf": true
+                }
+            ]
+        },
+        {
+            "text": "Renault",
+            "description": "Renault",
+            "src": "resources/images/renault.jpg",
+            "leaf": true
+        },
+        {
+            "text": "Hyundai",
+            "description": "Hyundai",
+            "src": "resources/images/hyundai.jpg",
+            
+            "items": [
+                {
+                    "text": "Lion 2",
+                    "description": "Lion from Africa",
+                    "src": "resources/images/lion-2.jpg",
+                    "leaf": true
+                },
+                {
+                    "text": "Lion 3",
+                    "description": "Lion from Africa",
+                    "src": "resources/images/lion-3.jpg",
+                    "leaf": true
+                }
+            ]
+        },
+        {
+            "text": "Dacia",
+            "description": "Dacia",
+            "src": "resources/images/dacia.jpg",
+            
+            "items": [
+                {
+                    "text": "Motorcycle 2",
+                    "description": "Cool motorcycle",
+                    "src": "resources/images/motorcycle-2.jpg",
+                    "leaf": true
+                }
+            ]
+        },
+        {
+            "text": "Mini",
+            "description": "Mini",
+            "src": "resources/images/mini.jpg",
+            "leaf": true
+        },
+        {
+            "text": "Water",
+            "description": "Water",
+            "src": "resources/images/water-1.jpg",
+            
+            "items": [
+                {
+                    "text": "Water 2",
+                    "description": "Water",
+                    "src": "resources/images/water-2.jpg",
+                    "leaf": true
+                },
+                {
+                    "text": "Water 3",
+                    "description": "Water",
+                    "src": "resources/images/water-3.jpg",
+                    "leaf": true
+                },
+                {
+                    "text": "Water 4",
+                    "description": "Water",
+                    "src": "resources/images/water-4.jpg",
+                    "leaf": true
+                }
+            ]
+        }        
+    ]		
+}
